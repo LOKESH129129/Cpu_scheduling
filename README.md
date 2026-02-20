@@ -7,10 +7,6 @@ The project idea is to generate a randomly uniform stream of jobs as the first s
 Then in the second stage, we will pick a scheduling algorithm out of the most 6 commonly used algorithms.
 after this, we will make a comparison of which algorithm performed better on which data.
 
-as a Bonus part, we designed an interactive user interface so the project can be used later for educational uses.
-
-in the UI the progress of each job and the progress of the whole system can be seen.
-
 The implemented algorithms: 
  - First-Come, First-Served FCFS Scheduling
  - Shortest-Job-First SJF Scheduling
